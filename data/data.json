@@ -1,0 +1,14 @@
+[
+  {
+    "hero": "Tracer",
+    "role": "DPS",
+    "map": "King's Row",
+    "result": "Victory"
+  },
+  {
+    "hero": "Cassidy",
+    "role": "DPS",
+    "map": "Eichenwalde",
+    "result": "Defeat"
+  }
+]
